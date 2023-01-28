@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mansimudrakola
 - 👀 I’m interested in anything related to networks security
-- 💞️ I’m looking to collaborate on projects related to network security, penetration testing and cryptography.
+- I’m looking to collaborate on projects related to network security, penetration testing and cryptography.
 - 📫 You can reach me through mudrakola.ma@northeastern.edu
 
 <!---
