@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mansimudrakola
-- 👀 I’m interested in anything related to networks security
-- I’m looking to collaborate on projects related to network security, penetration testing and cryptography.
+- 👋 Hi, I’m @Mansi-Mudrakola
+- 👀 I’m interested in anything related to Cybersecurity & Network Security
+- I am a Computer Networks & Security Masters graduate from the Northeastern University
 - 📫 You can reach me through mudrakola.ma@northeastern.edu
 
 <!---
