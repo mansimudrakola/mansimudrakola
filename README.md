@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mansi-Mudrakola
+- 👋 Hi, I’m @Mansi
 - 👀 I’m interested in anything related to Cybersecurity & Network Security
 - I am a Computer Networks & Security Masters graduate from the Northeastern University
 - 📫 You can reach me through mudrakola.ma@northeastern.edu
